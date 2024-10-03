@@ -1,6 +1,6 @@
-go-message-delivery system
+## go-message-delivery-system
 
-In this simplified scenario the message delivery system includes the following parts:
+the message delivery system includes the following parts:
 
 ### Hub
 
